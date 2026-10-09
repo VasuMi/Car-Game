@@ -1,4 +1,4 @@
-Car Game
+CAR GAME
 
 This is a Game made by using Python Library - "pygame".
  
