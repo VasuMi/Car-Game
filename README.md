@@ -14,6 +14,9 @@ So in this code, we will:
 ⭐ learn how to increase the game difficulty overtime
 
 
+resource & learning: Python simplified- YT
+
+
 
 
 
